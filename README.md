@@ -40,13 +40,7 @@ armed vehicle (5138), person (1029), soldier (2093), vehicle (1407)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6ee581ee2a1f43bfb0d8c61f3ed6754c.png)
 1
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/3440e6f4607943c1bdf4c9b61d6b7450.png)
-以下是针对您提供的 **无人机军事目标检测数据集** 的完整训练与推理方案，包含：
 
-- 数据集说明
-- YOLO 与 VOC 格式转换
-- **YOLOv8 详细训练代码**
-- **推理检测代码（支持图片、视频、摄像头）**
-- 模型评估与可视化
 
 ---
 
